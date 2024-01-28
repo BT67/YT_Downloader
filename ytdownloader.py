@@ -1,5 +1,4 @@
 # ytdownloader.py
-# Created by JGallo 2022/10/18
 # Download YouTube videos
 import sys
 from pytube import YouTube
