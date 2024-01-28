@@ -37,6 +37,3 @@ else:
         except Exception as e:
             print('No suitable download stream found for {0}'.format(str(args.input)))
             print(e)
-
-
-# TODO add playlist support
